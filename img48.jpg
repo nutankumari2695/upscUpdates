@@ -1,0 +1,929 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<!-- saved from url=(0024)https://www.upsc.gov.in/ -->
+<html lang="en" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" class="js bootstrap-anchors-processed"><head profile="http://www.w3.org/1999/xhtml/vocab"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<meta name="Generator" content="Drupal 7 (http://drupal.org)">
+  <title>Welcome to UPSC | UPSC</title>
+  <link type="text/css" rel="stylesheet" href="./img48_files/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all">
+<link type="text/css" rel="stylesheet" href="./img48_files/css_u9Cn6xFPfn6NvRqMGUV6k10stVTR4AGT7eontS75hX4.css" media="all">
+<link type="text/css" rel="stylesheet" href="./img48_files/css_y_d3oEP6xecl6ZkOn-hUyfcuOIM5Lw2y9MN0iLNnO9Y.css" media="all">
+<link type="text/css" rel="stylesheet" href="./img48_files/css_qE3lnvCqL23__oTwaQNlrHJWKQEvpgv2A7WCurISu0g.css" media="all">
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="./img48_files/respond.min.js.download"></script>
+<script src="./img48_files/jquery-3.6.0.min.js.download"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contributed/jquery_update/replace/jquery/3.6/jquery.min.js'>\x3C/script>")</script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="./img48_files/js_GZRfvlP3iQ-95pwbos1AjKwxv6uoCLTxmJoj8AKNazU.js.download"></script>
+<script src="./img48_files/js_cHRi6HJkg980ceEAyqo8EUrBqIrUDa0n_mHBsAI1m40.js.download"></script>
+<script src="./img48_files/js_QwNN-JdAEdJ7FW58qqObESLBwrQxseWoGc6C_gzQKYg.js.download"></script>
+<script>var base_url ="https://www.upsc.gov.in"; var themePath = "sites/all/themes/upsc"; var modulePath = "sites/all/modules/cmf/cmf_content";</script>
+<script src="./img48_files/js_KthSbKMuQqBFoUQVXzf11wqZYRhOTnI4lKYgZ0Pq7M0.js.download"></script>
+<script>
+		jQuery(document).ready(function(){
+			var searchStr = "";
+			if(searchStr != ""){
+				fetchResult();
+			}
+		});	
+		var currentKey = 0;
+		settings = new Array();
+		settings["searchServer"] = "http://goisearch.gov.in";
+		settings["textBoxId"] = "q";
+		settings["callBackFunction"] = "callBack";
+		loadSuggestionControls(settings);
+
+		function callBack() {
+			settings["q"] = document.getElementById("search_key").value;
+			settings["count"] = "10";
+			settings["site"] = "122.160.186.147/upsc";
+			loadResultControls(settings);
+		}
+
+		settings = new Array();
+		settings["searchServer"] = "http://goisearch.gov.in";
+		settings["textBoxId"] = "search_key";
+		settings["site"] = "122.160.186.147/upsc";
+		settings["q"] = "";
+		loadResultControls(settings);
+
+		function modifySettings(key1) {
+			if (document.getElementById("search_key").value != null) {
+				settings[key1] = document.getElementById("search_key").value;
+				settings["count"] = "10";
+				settings["site"] = "122.160.186.147/upsc";
+				loadResultControls(settings);
+			}
+			hideAutoComplete();
+		}
+
+		function fetchResult() {
+			var str = window.document.URL.toString();
+			str=escape(str);
+			var q = str.indexOf("?search_key=") + 12;
+			settings["q"] = str.slice(q);
+			settings["count"] = "10";
+			settings["site"] = "122.160.186.147/upsc";
+			loadResultControls(settings);
+		}
+
+		function escape(string) {
+				return ("" + string).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/"/g, "&#x27;").replace(/\//g, "&#x2F;").replace(/\+/g," ");
+		};
+		</script>
+<script src="./img48_files/js_u9XzY8GuIn7LRlzzmkoMbzg3ZjQZRlcForDmeex8alU.js.download"></script>
+<script src="./img48_files/js_ZJqphrM0-lH9nB07AQ5C5P9GodmZqnboGNjBGhFnnuA.js.download"></script>
+<script src="./img48_files/js_iiro2olv-RX3gC3Gs2RbWAN3fitln8gMi7wDaiQWkFg.js.download"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"upsc","theme_token":"NweHjhHKNQwt5YBw-9frZ-iFMcdxzcuJyB59G66asjE","jquery_version":"3.6","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/libraries\/respondjs\/respond.min.js":1,"\/\/code.jquery.com\/jquery-3.6.0.min.js":1,"0":1,"1":1,"sites\/all\/modules\/contributed\/jquery_update\/replace\/jquery-migrate\/3\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contributed\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contributed\/jquery_update\/replace\/jquery.form\/4\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contributed\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"2":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/js\/font-size.js":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/js\/framework.js":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/js\/swithcer.js":1,"sites\/all\/modules\/cmf\/goisearch\/js\/custom_result_jsversion.js":1,"sites\/all\/modules\/cmf\/goisearch\/js\/auto_jsversion.js":1,"3":1,"sites\/all\/modules\/contributed\/views_bootstrap\/js\/views-bootstrap-carousel.js":1,"sites\/all\/modules\/contributed\/views\/js\/base.js":1,"sites\/all\/modules\/contributed\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/contributed\/quicktabs\/js\/quicktabs.js":1,"sites\/all\/themes\/upsc\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/upsc\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/upsc\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/upsc\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/upsc\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/upsc\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/upsc\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/upsc\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/upsc\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/upsc\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/upsc\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/upsc\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/upsc\/js\/custom.js":1,"sites\/all\/themes\/bootstrap\/js\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contributed\/date\/date_api\/date.css":1,"sites\/all\/modules\/contributed\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contributed\/views\/css\/views.css":1,"sites\/all\/modules\/contributed\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/base.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/font.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/flexslider.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/base-responsive.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/font-awesome.min.css":1,"sites\/all\/modules\/contributed\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/cmf\/goisearch\/css\/custom_result.css":1,"http:\/\/goisas.nic.in\/content\/scripts\/jquery.1.8.7\/themes\/base\/jquery.ui.all.css":1,"sites\/all\/modules\/cmf\/goisearch\/css\/add-css.css":1,"sites\/all\/modules\/contributed\/quicktabs\/css\/quicktabs.css":1,"sites\/all\/themes\/upsc\/css\/style.css":1}},"urlIsAjaxTrusted":{"\/":true,"\/quicktabs\/ajax\/related_links\/0\/view\/related_links\/block\/1\/node\/":true},"viewsBootstrap":{"carousel":{"1":{"id":1,"name":"main_slider","attributes":{"interval":5000,"pause":"hover"}}}},"ajax":{"quicktabs-tab-related_links-0":{"progress":{"message":"","type":"throbber"},"event":"click","url":"\/quicktabs\/ajax\/related_links\/0\/view\/related_links\/block\/1\/node\/"}},"quicktabs":{"qt_related_links":{"name":"related_links","tabs":[{"vid":"related_links","display":"block","args":"","view_path":"node","view_dom_id":1,"ajax_args":"","actual_args":[]}],"ajaxPageState":{"jquery_version":"3.6"}}},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":0,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":0,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html front not-logged-in two-sidebars page-node i18n-en">
+  <div id="skip-link">
+    <a href="https://www.upsc.gov.in/#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    ﻿
+<header>
+        <div class="header-fixed clearfix">
+        <div class="region region-top-header">
+    <section id="block-cmf-content-header-region-block" class="block block-cmf-content clearfix">
+
+      
+  <noscript class="no_scr">"JavaScript is a standard programming language that is included to provide interactive features, Kindly enable Javascript in your browser. For details visit help page"
+     </noscript><div class="wrapper common-wrapper">
+  <div class="container common-container">
+      <div class="common-left clearfix">
+          <ul>
+              <li class="gov-india"></li><li class="ministry"> </li><li class=""></li> <li class="ico-sitemap"><a href="https://www.upsc.gov.in/site-map" target="_BLANK" title="External site that opens in a new window ">SiteMap</a></li> <li class="">|</li><li class="ico-skip"><a href="https://www.upsc.gov.in/#skipCont" title="Skip to main content">Skip to main content</a></li></ul></div><div class="top-search"><ul><li><form class="form-search content-search" action="https://www.upsc.gov.in/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div>
+      <h2 class="element-invisible">Search form</h2>
+    <div class="input-group"><input title="Enter the terms you wish to search for." placeholder="Search - Keyword, Phrase" class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128"><span class="input-group-btn"><button type="submit" class="btn btn-default">Search</button></span></div><button class="element-invisible btn btn-primary form-submit" id="edit-submit" name="op" value="Search" type="submit">Search</button>
+<input type="hidden" name="form_build_id" value="form-K5_NIxFtQJ1wb98MLD6FGd0C12Ue6qsSkThhiWJxuzA">
+<input type="hidden" name="form_id" value="search_block_form">
+</div>
+</div></form></li></ul>
+           
+        </div>
+        <div class="common-right clearfix">
+          <ul id="header-nav">
+                            
+             						
+								
+									
+								
+
+
+
+
+                               <li> <a onclick="set_font_size(&#39;increase&#39;)" title="Increase font size" href="javascript:void(0);">A<sup>+</sup></a> </li>
+                        <li> <a onclick="set_font_size()" title="Reset font size" href="javascript:void(0);">A<sup>&nbsp;</sup></a> </li>
+                        <li> <a onclick="set_font_size(&#39;decrease&#39;)" title="Decrease font size" href="javascript:void(0);">A<sup>-</sup></a> </li>
+        <li> <a href="javascript:void(0);" class="high-contrast dark" title="High Contrast">A</a> </li>
+       <li> <a href="javascript:void(0);" class="high-contrast light" title="Normal Contrast" style="display: none;">A</a> </li>
+
+
+         
+                
+                  <li class="hindi"><a target="_blank" href="https://www.upsc.gov.in/hi" title="External site that opens in a new window " class="alink">हिन्दी</a></li>
+                  	
+            </ul>
+        </div>
+    </div>
+</div>
+</section> <!-- /.block -->
+  </div>
+    </div>
+  <section class="wrapper header-wrapper fontSize" style="font-size: 100%;">
+  <div class="container header-container">
+  <div class="row">
+  <div class="col-md-8 col-xs-8 col-sm-8">
+      <h1 class="logo"><a href="https://www.upsc.gov.in/#"><strong>संघ  लोक  सेवा  आयोग</strong> <span>UNION PUBLIC SERVICE COMMISSION</span></a></h1>        
+    </div>
+   
+         <div class="col-md-4 col-sm-4 col-xs-4">
+            
+    <div class="akam">
+            <a><img alt="AKAM" src="./img48_files/akam-logo.png" class="img-responsive"></a>
+</div>
+<div class="digital">
+<a><img alt="digital india" src="./img48_files/logo.png" class="img-responsive"></a>
+      </div>   </div>
+</div>
+
+</div>
+</section>
+    
+<section id="menu" class="fontSize" style="font-size: 100%;">
+    <div class="container">
+<nav class="navbar navbar-default">
+<div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    
+    </div>
+ <!-- Design & Developed By Deepak K. Chaudhary, Sujeet Kumar Singh & MD Manouwer -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <div id="main-menu">
+                    <ul class="menu nav"><li class="first leaf active"><a href="https://www.upsc.gov.in/" title="" class="active"><i class="fa fa-home"></i></a></li>
+<li class="expanded dropdown active"><a href="https://www.upsc.gov.in/" title="" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">About Us <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/about-us/historical-perspective">Historical Perspective</a></li>
+<li class="collapsed fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/about-us/constitutional-provisions">Constitutional Provisions</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/about-us/commission-">The Commission</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/about-us/functions">Functions</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/about-us/secretariat">Secretariat</a></li>
+<li class="expanded fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/about-us/divisions" title="">Divisions</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/about-us/citizens-charter" title="">Citizen's Charter</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/about-us/directory">Directory</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/inauguration-museum">Museum</a></li>
+<li class="last leaf fontSize" style="font-size: 100%;"><a href="https://upsc.gov.in/virtual_museum/" target="_BLANK" title="External site that opens in a new window ">Virtual Tour of Museum</a></li>
+</ul></li>
+<li class="expanded dropdown active"><a href="https://www.upsc.gov.in/" title="" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Examination <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/examinations/exam-calendar" title="">Calendar</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/examinations/active-exams" title="">Active Examinations</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/examinations/forthcoming-exams" title="">Forthcoming Examinations</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/examinations/previous-question-papers" title="">Previous Question Papers</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/examinations/cutoff-marks" title="">Cut-off Marks</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/examinations/answer-key" title="">Answer Keys</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://upsconline.nic.in/marksheet/exam/marksheet_system/" target="_BLANK" title="External site that opens in a new window ">Marks Information</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/examination/public-disclosure-of-scores-through-portal" title="">Public Disclosure of marks &amp; other details of non-recommended willing candidates</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/examination/model-question-and-answer-booklets" title="">Specimen Question Cum Answer Booklet (QCAB)</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/examination/common-mistakes-committed-candidates-conventional-papers">Common mistakes committed by the candidates in Conventional Papers</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/examinations/revised-syllabus-scheme" title="">Revised Syllabus and Scheme</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/examination/time-frame-representation">Representation on Question Papers</a></li>
+<li class="last leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/examinations/demo-files-computer-based-combined-medical-service-examination">Demo Files</a></li>
+</ul></li>
+<li class="expanded dropdown active"><a href="https://www.upsc.gov.in/" title="" data-target="#" class="dropdown-toggle active" data-toggle="dropdown">Recruitment <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/recruitment/recruitment-advertisement" title="">Advertisements</a></li>
+<li class="expanded fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/recruitment/lateral-recruitments" title="">Status of Lateral Recruitment Cases (Advertisement-wise)</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="http://upsconline.nic.in/ora/VacancyNoticePub.php" target="_BLANK" title="External site that opens in a new window ">Online Recruitment Application (ORA)</a></li>
+<li class="expanded fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/recruitment/status-recruitment-cases-advertisementwise">Status of Recruitment Cases (Advertisement-wise)</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/recruitment/recruitment-performas" title="">Forms for Certificates</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/recruitment/recruitment-test">Recruitment Tests</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/recruitment/recruitment-requisition" title="">Recruitment Requisition</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/content/recruitment-cases-kept-hold-account-pending-litigations">Recruitment cases kept on hold on account of Pending Litigations</a></li>
+<li class="last leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/recruitment/time-frame-representation">Representation on Question Papers</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="https://www.upsc.gov.in/government-user" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Government Users <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/government-user/central-government">Central Government</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/government-user/state-ut-government">Union Territories Government</a></li>
+<li class="leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/government-user/state-government">State Government</a></li>
+<li class="last leaf fontSize" style="font-size: 100%;"><a href="https://www.upsc.gov.in/government-user/others">Others</a></li>
+</ul></li>
+<li class="leaf"><a href="https://www.upsc.gov.in/forms-downloads" title="">Forms &amp; Downloads</a></li>
+<li class="leaf"><a href="https://www.upsc.gov.in/faqs" title="">FAQs</a></li>
+<li class="leaf"><a href="https://www.upsc.gov.in/right-to-information" title="">RTI</a></li>
+<li class="leaf"><a href="https://www.upsc.gov.in/helpline">Helpline - SC/ST/OBC/EWS/PwBD (1800-118-711)</a></li>
+<li class="last leaf"><a href="https://upsconline.nic.in/upsc/OTRP/index.php" target="_BLANK" title="External site that opens in a new window ">One Time Registration (OTR) for Examinations</a></li>
+</ul>       
+
+                </div>
+                </div>
+             
+
+
+  
+
+</div></nav>
+</div><!-- /.container-->
+
+
+  </section>
+    
+    <section class="slider-section">
+    <div class="slider fontSize" style="font-size: 100%;">
+    <div class="region region-slider">
+    <section id="block-views-main-slider-block" class="block block-views clearfix">
+
+      
+  <div class="view view-main-slider view-id-main_slider view-display-id-block view-dom-id-ed1e8ebb52940345f09b842a3d845536">
+        
+  
+  
+      <div class="view-content">
+      <div id="views-bootstrap-carousel-1" class="views-bootstrap-carousel-plugin-style carousel slide">
+      <!-- Carousel indicators -->
+    <ol class="carousel-indicators">
+              <li data-target="#views-bootstrap-carousel-1" data-slide-to="0" class=""></li>
+              <li data-target="#views-bootstrap-carousel-1" data-slide-to="1" class=""></li>
+              <li data-target="#views-bootstrap-carousel-1" data-slide-to="2" class=""></li>
+              <li data-target="#views-bootstrap-carousel-1" data-slide-to="3" class=""></li>
+              <li data-target="#views-bootstrap-carousel-1" data-slide-to="4" class=""></li>
+              <li data-target="#views-bootstrap-carousel-1" data-slide-to="5" class=""></li>
+              <li data-target="#views-bootstrap-carousel-1" data-slide-to="6" class=""></li>
+              <li data-target="#views-bootstrap-carousel-1" data-slide-to="7" class=""></li>
+              <li data-target="#views-bootstrap-carousel-1" data-slide-to="8" class=""></li>
+              <li data-target="#views-bootstrap-carousel-1" data-slide-to="9" class=""></li>
+              <li data-target="#views-bootstrap-carousel-1" data-slide-to="10" class=""></li>
+              <li data-target="#views-bootstrap-carousel-1" data-slide-to="11" class=""></li>
+              <li data-target="#views-bootstrap-carousel-1" data-slide-to="12" class="active"></li>
+              <li data-target="#views-bootstrap-carousel-1" data-slide-to="13" class=""></li>
+          </ol>
+  
+  <!-- Carousel items -->
+  <div class="carousel-inner">
+          <div class="item">
+        <img typeof="foaf:Image" src="./img48_files/sl1 copy.jpg" width="1920" height="413" alt="Union Public Service Commission">
+<div></div>
+      </div>
+          <div class="item">
+        <img typeof="foaf:Image" src="./img48_files/sl2.jpg" width="1920" height="413" alt="Union Public Service Commission">
+<div></div>
+      </div>
+          <div class="item">
+        <img typeof="foaf:Image" src="./img48_files/sl3.jpg" width="1920" height="413" alt="The UPSC Main Building “The Dholpur House” illuminated on the occasion of the 96th Foundation Day celebrated on 1st October, 2022." title="The UPSC Main Building “The Dholpur House” illuminated on the occasion of the 96th Foundation Day celebrated on 1st October, 2022.">
+<div>The UPSC Main Building “The Dholpur House” illuminated on the occasion of the 96th Foundation Day celebrated on 1st October, 2022.</div>
+      </div>
+          <div class="item">
+        <img typeof="foaf:Image" src="./img48_files/sl4.jpg" width="1920" height="413" alt="Union Public Service Commission">
+<div></div>
+      </div>
+          <div class="item">
+        <img typeof="foaf:Image" src="./img48_files/sl5.jpg" width="1920" height="413" alt="A glimpse of the Museum of the UPSC" title="A glimpse of the Museum of the UPSC">
+<div>A glimpse of the Museum of the UPSC</div>
+      </div>
+          <div class="item">
+        <img typeof="foaf:Image" src="./img48_files/sl6.jpg" width="1920" height="413" alt="Ms. Smita Nagaraj, the senior most Hon’ble Member of the Commission administering the oath of office to Lt. Gen. Raj Shukla (Retd.) on his appointment as an Hon’ble Member of the Commission on 18/07/2022." title="Ms. Smita Nagaraj, the senior most Hon’ble Member of the Commission administering the oath of office to Lt. Gen. Raj Shukla (Retd.) on his appointment as an Hon’ble Member of the Commission on 18/07/2022.">
+<div>Ms. Smita Nagaraj, the senior most Hon’ble Member of the Commission administering the oath of office to Lt. Gen. Raj Shukla (Retd.) on his appointment as an Hon’ble Member of the Commission on 18/07/2022.</div>
+      </div>
+          <div class="item">
+        <img typeof="foaf:Image" src="./img48_files/sl7 copy.jpg" width="1920" height="413" alt="Dr. Manoj Soni, Hon’ble Chairman, UPSC presenting a memento to Shri Mohd. Nasih, Hon’ble President of Maldives Civil Service Commission on 15/06/2022." title="Dr. Manoj Soni, Hon’ble Chairman, UPSC presenting a memento to Shri Mohd. Nasih, Hon’ble President of Maldives Civil Service Commission on 15/06/2022.">
+<div>Dr. Manoj Soni, Hon’ble Chairman, UPSC presenting a memento to Shri Mohd. Nasih, Hon’ble President of Maldives Civil Service Commission on 15/06/2022.</div>
+      </div>
+          <div class="item">
+        <img typeof="foaf:Image" src="./img48_files/sl8.jpg" width="1920" height="413" alt="Dr. Manoj Soni, Hon’ble Chairman, and Hon’ble Members of UPSC (from Left to Right - Lt. Gen. Raj Shukla (Retd.), Ms. Smita Nagaraj, Dr. T.C.A. Anant, Ms. M. Sathiyavathy, Shri R.N. Choubey, Shri B. B. Vyas) presenting the “Annual Report” of the UPSC for the Year 2020-2021 to Smt. Droupadi Murmu, Hon’ble President of India on 17/08/2022." title="Dr. Manoj Soni, Hon’ble Chairman, and Hon’ble Members of UPSC (from Left to Right - Lt. Gen. Raj Shukla (Retd.), Ms. Smita Nagaraj, Dr. T.C.A. Anant, Ms. M. Sathiyavathy, Shri R.N. Choubey, Shri B. B. Vyas) presenting the “Annual Report” of the UPSC for the Year 2020-2021 to Smt. Droupadi Murmu, Hon’ble President of India on 17/08/2022.">
+<div>Dr. Manoj Soni, Hon’ble Chairman, and Hon’ble Members of UPSC (from Left to Right - Lt. Gen. Raj Shukla (Retd.), Ms. Smita Nagaraj, Dr. T.C.A. Anant, Ms. M. Sathiyavathy, Shri R.N. Choubey, Shri B. B. Vyas) presenting the “Annual Report” of the UPSC for the Year 2020-2021 to Smt. Droupadi Murmu, Hon’ble President of India on 17/08/2022.</div>
+      </div>
+          <div class="item">
+        <img typeof="foaf:Image" src="./img48_files/sl9.jpg" width="1920" height="413" alt="A glimpse of the Covid vaccination (Precautionary Dose) camp organized in the UPSC premises on 24/08/2022." title="A glimpse of the Covid vaccination (Precautionary Dose) camp organized in the UPSC premises on 24/08/2022.">
+<div>A glimpse of the Covid vaccination (Precautionary Dose) camp organized in the UPSC premises on 24/08/2022.</div>
+      </div>
+          <div class="item">
+        <img typeof="foaf:Image" src="./img48_files/sl10.jpg" width="1920" height="413" alt="Dr. Manoj Soni, Hon’ble Chairman, UPSC (2nd from left) with Shri Arif Mohammed Khan, Hon’ble Governor of Kerala, Shri Jose Manuel Noronha, Hon’ble Chairman, Goa PSC (1st from left), Adv. M. K. Sakeer, Hon’ble Chairman, Kerala PSC (2nd from right) and Smt. Parvathi Devi (1st from right), Hon’ble Member of Kerala PSC on the occasion of the inaugural ceremony of the 23rd National Conference of the State Public Service Commissions held in Thiruvananthapuram , Kerala on 15th &amp; 16th April, 2022." title="Dr. Manoj Soni, Hon’ble Chairman, UPSC (2nd from left) with Shri Arif Mohammed Khan, Hon’ble Governor of Kerala, Shri Jose Manuel Noronha, Hon’ble Chairman, Goa PSC (1st from left), Adv. M. K. Sakeer, Hon’ble Chairman, Kerala PSC (2nd from right) and Smt. Parvathi Devi (1st from right), Hon’ble Member of Kerala PSC on the occasion of the inaugural ceremony of the 23rd National Conference of the State Public Service Commissions held in Thiruvananthapuram , Kerala on 15th &amp; 16th April, 2022.">
+<div>Dr. Manoj Soni, Hon’ble Chairman, UPSC (2nd from left) with Shri Arif Mohammed Khan, Hon’ble Governor of Kerala, Shri Jose Manuel Noronha, Hon’ble Chairman, Goa PSC (1st from left), Adv. M. K. Sakeer, Hon’ble Chairman, Kerala PSC (2nd from right) and Smt. Parvathi Devi (1st from right), Hon’ble Member of Kerala PSC on the occasion of the inaugural ceremony of the 23rd National Conference of the State Public Service Commissions held in Thiruvananthapuram , Kerala on 15th &amp; 16th April, 2022.</div>
+      </div>
+          <div class="item">
+        <img typeof="foaf:Image" src="./img48_files/sl11.jpg" width="1920" height="413" alt="Shri Arif Mohammed Khan, Hon’ble Governor of Kerala with Hon’ble Chairman, UPSC and the Hon’ble Chairpersons of the State Public Service Commissions on the occasion of the 23rd National Conference of Chairpersons of State Public Service Commissions." title="Shri Arif Mohammed Khan, Hon’ble Governor of Kerala with Hon’ble Chairman, UPSC and the Hon’ble Chairpersons of the State Public Service Commissions on the occasion of the 23rd National Conference of Chairpersons of State Public Service Commissions.">
+<div>Shri Arif Mohammed Khan, Hon’ble Governor of Kerala with Hon’ble Chairman, UPSC and the Hon’ble Chairpersons of the State Public Service Commissions on the occasion of the 23rd National Conference of Chairpersons of State Public Service Commissions.</div>
+      </div>
+          <div class="item">
+        <img typeof="foaf:Image" src="./img48_files/sl12.jpg" width="1920" height="413" alt="Union Public Service Commission">
+<div></div>
+      </div>
+          <div class="item active">
+        <img typeof="foaf:Image" src="./img48_files/sl13.jpg" width="1920" height="413" alt="Smt. Vasudha Mishra, Secretary, UPSC addressing the officers of the State Public Service Commissions during the workshop organized by the UPSC on “Disciplinary Proceedings” held on 07/09/2022." title="Smt. Vasudha Mishra, Secretary, UPSC addressing the officers of the State Public Service Commissions during the workshop organized by the UPSC on “Disciplinary Proceedings” held on 07/09/2022.">
+<div>Smt. Vasudha Mishra, Secretary, UPSC addressing the officers of the State Public Service Commissions during the workshop organized by the UPSC on “Disciplinary Proceedings” held on 07/09/2022.</div>
+      </div>
+          <div class="item">
+        <img typeof="foaf:Image" src="./img48_files/sl14.jpg" width="1920" height="413" alt="A glimpse of a month long yoga classes held on the occasion of the International Yoga Day’ in the month of June, 2022." title="A glimpse of a month long yoga classes held on the occasion of the International Yoga Day’ in the month of June, 2022.">
+<div>A glimpse of a month long yoga classes held on the occasion of the International Yoga Day’ in the month of June, 2022.</div>
+      </div>
+      </div>
+
+      <!-- Carousel navigation -->
+    <a class="carousel-control left" href="https://www.upsc.gov.in/#views-bootstrap-carousel-1" data-slide="prev">
+      <span class="icon-prev"></span>
+    </a>
+    <a class="carousel-control right" href="https://www.upsc.gov.in/#views-bootstrap-carousel-1" data-slide="next">
+      <span class="icon-next"></span>
+    </a>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section> <!-- /.block -->
+  </div>
+        </div>
+    <div class="whats-new fontSize" style="font-size: 100%;">
+	
+	        
+	   <h2 class="whats-heading">What’s New      </h2>
+     
+	
+	 
+     <div class="pull-right">
+        <div class="marts-marq">
+          <span><a class="btn btn-default" onclick="document.getElementById(&#39;mymarquee&#39;).stop();"><i class="glyphicon glyphicon-stop"></i></a></span>
+            <span><a class="btn btn-default" onclick="document.getElementById(&#39;mymarquee&#39;).start();"><i class="glyphicon glyphicon-play"></i></a></span>
+
+        </div>
+	</div>
+
+     
+<div class="clearfix"></div>
+<div class="whats-new-marq">
+<marquee behavior="scroll" direction="UP" id="mymarquee" scrolldelay="140">
+<div class="view view-what-new view-id-what_new view-display-id-block view-what-new view-dom-id-95c7951cd5c5e13e4349f419f9b24803">
+            <div class="view-header">
+      <!--ul class="test arrows" style="margin-left: 10px;""><li><a href="/sites/default/files/Panel-Invigilators-Examns-engl-020622.pdf" target="_BLANK">Formation of Panel of Invigilators in Commissions' Examinations</a></li>
+</ul-->
+<ul class="test arrows" style="margin-left: 10px;"><li><a href="https://www.upsc.gov.in/sites/default/files/Common_Mistake_OMR_SAL.pdf" target="_BLANK">Common mistakes done while filling OMR Sheet/Scannable Attendance List </a></li>
+</ul><!--ul class="test arrows" style="margin-left: 10px;""><li><a href="/sites/default/files/Helpline_Press%20Note_0.pdf" target="_BLANK">Press Note : Helpline - SC, ST, OBC, EWS, PwBD (1800-118-711)</a></li>
+</ul--><!--ul class="test arrows" style="margin-left: 10px;""><li><a href="/sites/default/files/Press%20Note_OTR-180822.pdf" target="_BLANK">Press Note : One Time Registration (OTR) for Examinations of UPSC</a></li>
+</ul-->    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"><ul class="arrows"><li><a href="https://www.upsc.gov.in/whats-new/17%20Posts%20of%20Assistant%20Geophysicist%20in%20Geological%20Survey%20of%20India/Final%20Result">Final Result: 17 Posts of Assistant Geophysicist in Geological Survey of India</a></li></ul></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"></span>  </span>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"><ul class="arrows"><li><a href="https://www.upsc.gov.in/whats-new/131%20Posts%20of%20Vice%20Principal%20in%20Directorate%20of%20Education,%20GNCTD/Rectt.%20Test">Rectt. Test: 131 Posts of Vice Principal in Directorate of Education, GNCTD</a></li></ul></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"></span>  </span>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"><ul class="arrows"><li><a href="https://www.upsc.gov.in/whats-new/06%20Posts%20of%20System%20Analyst%20in%20UPSC/Rectt.%20Test">Rectt. Test: 06 Posts of System Analyst in UPSC</a></li></ul></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"></span>  </span>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"><ul class="arrows"><li><a href="https://www.upsc.gov.in/whats-new/05%20Posts%20of%20Assistant%20Professor%20(Computer%20Engineering%20-%20Information%20Technology%20Engineering)/Rectt.%20Test">Rectt. Test: 05 Posts of Assistant Professor (Computer Engineering - Information Technology Engineering)</a></li></ul></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"></span>  </span>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"><ul class="arrows"><li><a href="https://www.upsc.gov.in/whats-new/29%20Posts%20of%20Assistant%20Director%20(Information%20Technology),%20Ministry%20of%20Home%20Affairs/Rectt.%20Test">Rectt. Test: 29 Posts of Assistant Director (Information Technology), Ministry of Home Affairs</a></li></ul></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"></span>  </span>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"><a href="https://www.upsc.gov.in/whats-new/Combined%20Defence%20Services%20Examination%20%28I%29%2C%202022/Final%20Result"><ul class="arrows"><li>Final Result: Combined Defence Services Examination (I), 2022</li></ul></a></span>  </span>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"><a href="https://www.upsc.gov.in/whats-new/National%20Defence%20Academy%20and%20Naval%20Academy%20Examination%20%28I%29%2C%202022/Final%20Result"><ul class="arrows"><li>Final Result: National Defence Academy and Naval Academy Examination (I), 2022</li></ul></a></span>  </span>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"><a href="https://www.upsc.gov.in/whats-new/Combined%20Geo-Scientist%20%28Main%29%20Examination%2C%202022/Interview%20Schedule"><ul class="arrows"><li>Interview Schedule: Combined Geo-Scientist (Main) Examination, 2022</li></ul></a></span>  </span>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"><ul class="arrows"><li><a href="https://www.upsc.gov.in/whats-new/10%20Posts%20of%20Deputy%20Central%20Intelligence%20Officer%20(Tech),%20IB,%20MHA/Written%20Result">Written Result: 10 Posts of Deputy Central Intelligence Officer (Tech), IB, MHA</a></li></ul></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"></span>  </span>  </div>
+  <div class="views-row views-row-10 views-row-even">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"><ul class="arrows"><li><a href="https://www.upsc.gov.in/whats-new/21%20-%202022">Advertisement No.21 - 2022</a></li></ul>
+</div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"></span>  </span>  </div>
+  <div class="views-row views-row-11 views-row-odd">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"><ul class="arrows"><li><a href="https://www.upsc.gov.in/whats-new/01%20post%20of%20Private%20Secretary%20in%20the%20Commission%20for%20Agricultural%20Cost%20&amp;%20Prices%20(CACP)/Rectt.%20Test">Rectt. Test: 01 post of Private Secretary in the Commission for Agricultural Cost &amp; Prices (CACP)</a></li></ul></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"></span>  </span>  </div>
+  <div class="views-row views-row-12 views-row-even">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"><a href="https://www.upsc.gov.in/whats-new/Combined%20Medical%20Services%20Examination%2C%202021/Marks%20of%20Recommended%20Candidates"><ul class="arrows"><li>Marks of Recommended Candidates: Combined Medical Services Examination, 2021</li></ul></a></span>  </span>  </div>
+  <div class="views-row views-row-13 views-row-odd">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"><a href="https://www.upsc.gov.in/whats-new/Combined%20Medical%20Services%20Examination%2C%202021/Final%20Result"><ul class="arrows"><li>Final Result: Combined Medical Services Examination, 2021</li></ul></a></span>  </span>  </div>
+  <div class="views-row views-row-14 views-row-even">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"><a href="https://www.upsc.gov.in/whats-new/SO-Steno%20%28GD-B-GD-I%29%20LDCE%20-%202018/Exam%20Notification"><ul class="arrows"><li>Exam Notification: SO-Steno (GD-B-GD-I) LDCE - 2018</li></ul></a></span>  </span>  </div>
+  <div class="views-row views-row-15 views-row-odd">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"><ul class="arrows"><li><a href="https://www.upsc.gov.in/whats-new/07%20Posts%20of%20Assistant%20Professor%20(Electronics%20and%20Telecommunication%20Engineering),%20Ministry%20of%20Defence/Written%20Result">Written Result: 07 Posts of Assistant Professor (Electronics and Telecommunication Engineering), Ministry of Defence</a></li></ul></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"></span>  </span>  </div>
+  <div class="views-row views-row-16 views-row-even">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"><ul class="arrows"><li><a href="https://www.upsc.gov.in/whats-new/02%20Posts%20of%20Assistant%20Professor%20(Electronics%20and%20Communication%20Engg.),%20Ministry%20of%20Defence/Written%20Result">Written Result: 02 Posts of Assistant Professor (Electronics and Communication Engg.), Ministry of Defence</a></li></ul></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"></span>  </span>  </div>
+  <div class="views-row views-row-17 views-row-odd">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"><ul class="arrows"><li><a href="https://www.upsc.gov.in/whats-new/07%20Posts%20of%20Assistant%20Engineer%20Grade%20-%20I,%20GSI/Written%20Result">Written Result: 07 Posts of Assistant Engineer Grade - I, GSI</a></li></ul></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"></span>  </span>  </div>
+  <div class="views-row views-row-18 views-row-even">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"><ul class="arrows"><li><a href="https://www.upsc.gov.in/whats-new/03%20Posts%20of%20Foreman%20(Mechanical),%20DGAQA,%20Ministry%20of%20Defence/Written%20Result">Written Result: 03 Posts of Foreman (Mechanical), DGAQA, Ministry of Defence</a></li></ul></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"></span>  </span>  </div>
+  <div class="views-row views-row-19 views-row-odd">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"><a href="https://www.upsc.gov.in/whats-new/Combined%20Geo-Scientist%20%28Preliminary%29%20Examination%2C%202023/Examination%20Time%20Table"><ul class="arrows"><li>Examination Time Table: Combined Geo-Scientist (Preliminary) Examination, 2023</li></ul></a></span>  </span>  </div>
+  <div class="views-row views-row-20 views-row-even">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"><a href="https://www.upsc.gov.in/whats-new/Indian%20Economic%20Service%20-%20Indian%20Statistical%20Service%20Examination%2C%202022/Interview%20Schedule"><ul class="arrows"><li>Interview Schedule: Indian Economic Service - Indian Statistical Service Examination, 2022</li></ul></a></span>  </span>  </div>
+  <div class="views-row views-row-21 views-row-odd">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"><a href="https://www.upsc.gov.in/whats-new/CISF%20AC%28EXE%29%20LDCE-2022/Important%20Notice"><ul class="arrows"><li>Important Notice: CISF AC(EXE) LDCE-2022</li></ul></a></span>  </span>  </div>
+  <div class="views-row views-row-22 views-row-even">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"><a href="https://www.upsc.gov.in/whats-new/Central%20Armed%20Police%20Forces%20%28ACs%29%20Examination%2C%202021/Important%20Notice"><ul class="arrows"><li>Important Notice: Central Armed Police Forces (ACs) Examination, 2021</li></ul></a></span>  </span>  </div>
+  <div class="views-row views-row-23 views-row-odd">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"><ul class="arrows"><li><a href="https://www.upsc.gov.in/whats-new/05%20Posts%20of%20System%20Analyst%20cum%20Computer%20Programmer,%20Ministry%20of%20Commerce%20and%20Industry/Rectt.%20Test">Rectt. Test: 05 Posts of System Analyst cum Computer Programmer, Ministry of Commerce and Industry</a></li></ul></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"></span>  </span>  </div>
+  <div class="views-row views-row-24 views-row-even">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"><ul class="arrows"><li><a href="https://www.upsc.gov.in/whats-new/05%20posts%20of%20Senior%20Scientific%20Assistant%20(Electronics),%20Ministry%20of%20Defence/Final%20Result">Final Result: 05 posts of Senior Scientific Assistant (Electronics), Ministry of Defence</a></li></ul></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"></span>  </span>  </div>
+  <div class="views-row views-row-25 views-row-odd">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"><ul class="arrows"><li><a href="https://www.upsc.gov.in/whats-new/10%20Posts%20of%20Public%20Prosecutor%20in%20National%20Investigation%20Agency/Final%20Result">Final Result: 10 Posts of Public Prosecutor in National Investigation Agency</a></li></ul></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"></span>  </span>  </div>
+  <div class="views-row views-row-26 views-row-even">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"><a href="https://www.upsc.gov.in/whats-new/Central%20Armed%20Police%20Forces%20%28ACs%29%20Examination%2C%202022/Written%20Result%20%28with%20name%29"><ul class="arrows"><li>Written Result (with name): Central Armed Police Forces (ACs) Examination, 2022</li></ul></a></span>  </span>  </div>
+  <div class="views-row views-row-27 views-row-odd">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"><a href="https://www.upsc.gov.in/whats-new/Civil%20Services%20Examination%2C%202021/Public%20Disclosure%20of%20marks%20and%20other%20details%20of%20non-recommended%20willing%20candidates"><ul class="arrows"><li>Public Disclosure of marks and other details of non-recommended willing candidates: Civil Services Examination, 2021</li></ul></a></span>  </span>  </div>
+  <div class="views-row views-row-28 views-row-even">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"><a href="https://www.upsc.gov.in/whats-new/Indian%20Forest%20Service%20%28Main%29%20Examination%2C%202022/e%20-%20Admit%20Card"><ul class="arrows"><li>e - Admit Card: Indian Forest Service (Main) Examination, 2022</li></ul></a></span>  </span>  </div>
+  <div class="views-row views-row-29 views-row-odd">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"><a href="https://www.upsc.gov.in/whats-new/Engineering%20Services%20%28Preliminary%29%20Examination%2C%202023/Examination%20Time%20Table"><ul class="arrows"><li>Examination Time Table: Engineering Services (Preliminary) Examination, 2023</li></ul></a></span>  </span>  </div>
+  <div class="views-row views-row-30 views-row-even">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"><a href="https://www.upsc.gov.in/whats-new/Engineering%20Services%20%28Main%29%20Examination%2C%202022/Important%20Notice"><ul class="arrows"><li>Important Notice: Engineering Services (Main) Examination, 2022</li></ul></a></span>  </span>  </div>
+  <div class="views-row views-row-31 views-row-odd">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"><a href="https://www.upsc.gov.in/whats-new/Engineering%20Services%20%28Main%29%20Examination%2C%202022/Interview%20Schedule"><ul class="arrows"><li>Interview Schedule: Engineering Services (Main) Examination, 2022</li></ul></a></span>  </span>  </div>
+  <div class="views-row views-row-32 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-advertisement-number">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-name-of-post-vaccancy">        <div class="field-content"></div>  </div>  
+  <span class="views-field views-field-field-exam-name">        <span class="field-content"><a href="https://www.upsc.gov.in/whats-new/Indian%20Forest%20Service%20%28Main%29%20Examination%2C%202022/Examination%20Time%20Table"><ul class="arrows"><li>Examination Time Table: Indian Forest Service (Main) Examination, 2022</li></ul></a></span>  </span>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</marquee>
+
+      
+	   <div class="more-link"><a href="https://www.upsc.gov.in/whats-new">View all » </a>
+      </div>	
+	
+
+</div>
+
+
+    
+</div>
+
+    </section>
+    
+</header>
+
+<div class="wrapper" id="skipCont"></div>
+<section class="wrapper body-wrapper fontSize newsl" style="font-size: 100%;">
+     
+  
+            <div class="left_row1">
+              <div id="content" class="righttabbing" role="main">
+                                <a id="main-content"></a>
+                                
+                                                
+                
+
+<div class="help">               
+			   <div class="container">
+         <span class="bulb"><img alt="image" src="./img48_files/alert.png"></span>
+<span class="tickcon"><marquee behavior="scroll" direction="LEFT" id="mymarquee" scrolldelay="100">
+
+<div class="view view-ticker view-id-ticker view-display-id-block view-dom-id-697519b119497add80e38c747121c121">
+        
+  
+  
+      <div class="view-content">
+      <div class="guide-text">Swipe to view <i class="fa fa-long-arrow-right"></i></div><div class="scroll-table1"><table class="views-table cols-0">
+  
+          <thead>
+      <tr>
+        <th class="views-field views-field-title">
+                  </th>
+                  <th class="views-field views-field-title">
+            <a href="https://www.upsc.gov.in/content/important-notice-central-armed-police-forces-acs-examination-2021-and-cisf-acexe-ldce-2022">Important Notice - Central Armed Police Forces (ACs) Examination, 2021 and CISF AC(EXE) LDCE-2022</a>          </th>
+                  <th class="views-field views-field-title">
+            <a href="https://www.upsc.gov.in/content/e-admit-card-indian-forest-service-main-examination-2022">e - Admit Card: Indian Forest Service (Main) Examination, 2022</a>          </th>
+                  <th class="views-field views-field-title">
+            <a href="https://www.upsc.gov.in/content/upsc-mobile-app">UPSC Mobile App</a>          </th>
+                  <th class="views-field views-field-title">
+            <a href="https://www.upsc.gov.in/content/important-notice-engineering-services-main-examination-2022">Important Notice : Engineering Services (Main) Examination, 2022</a>          </th>
+                  <th class="views-field views-field-title">
+            <a href="https://www.upsc.gov.in/content/one-time-registration-otr-examinations-upsc">One Time Registration (OTR) for Examinations of UPSC</a>          </th>
+                  <th class="views-field views-field-title">
+            <a href="https://www.upsc.gov.in/content/faqs-respect-attempts-civil-services-examination">FAQs with respect to attempts in the Civil Services Examination</a>          </th>
+              </tr>
+    </thead>
+        <tbody>
+      </tbody>
+</table></div>
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</marquee></span>
+<span class="tickmore"> 
+      
+	   <div class="more-link"><a href="https://www.upsc.gov.in/highlight"> View all </a>
+      </div>	
+	
+
+</span>                            
+
+
+
+
+                           
+
+
+			     </div></div>
+                
+              </div>
+           
+            </div>
+			</section>
+			
+			<section class="fontSize" style="font-size: 100%;">
+            <div class="container">
+                     
+              <div class="row">
+                <div class="col-xs-12 col-sm-3 col-md-3 upsc-first">  <div class="region region-upsc-first">
+    <section id="block-menu-block-1" class="block block-menu-block clearfix">
+
+        <h2 class="block-title">About Us</h2>
+    
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-611 menu-level-1">
+  <ul class="menu nav"><li class="first leaf menu-mlid-651"><a href="https://www.upsc.gov.in/about-us/historical-perspective">Historical Perspective</a></li>
+<li class="collapsed menu-mlid-652"><a href="https://www.upsc.gov.in/about-us/constitutional-provisions">Constitutional Provisions</a></li>
+<li class="leaf menu-mlid-2752"><a href="https://www.upsc.gov.in/about-us/commission-">The Commission</a></li>
+<li class="leaf menu-mlid-653"><a href="https://www.upsc.gov.in/about-us/functions">Functions</a></li>
+<li class="leaf menu-mlid-650"><a href="https://www.upsc.gov.in/about-us/secretariat">Secretariat</a></li>
+<li class="expanded menu-mlid-654"><a href="https://www.upsc.gov.in/about-us/divisions" title="">Divisions</a></li>
+<li class="leaf menu-mlid-649"><a href="https://www.upsc.gov.in/about-us/citizens-charter" title="">Citizen's Charter</a></li>
+<li class="leaf menu-mlid-622"><a href="https://www.upsc.gov.in/about-us/directory">Directory</a></li>
+<li class="leaf menu-mlid-2715"><a href="https://www.upsc.gov.in/inauguration-museum">Museum</a></li>
+<li class="last leaf menu-mlid-2743"><a href="https://upsc.gov.in/virtual_museum/" title="">Virtual Tour of Museum</a></li>
+</ul></div>
+
+</section> <!-- /.block -->
+  </div>
+</div>
+                <div class="col-xs-12 col-sm-3 col-md-3 upsc-second">
+				 	       <h2 class="examination-block">Examination</h2>
+	     <div class="region region-upsc-second">
+    <section id="block-block-9" class="block block-block clearfix">
+
+      
+  <p><a href="https://www.upsc.gov.in/examinations/exam-calendar" target="_blank">Calendar</a></p>
+
+</section> <!-- /.block -->
+<section id="block-views-exams-block-1" class="block block-views clearfix">
+
+        <h2 class="block-title">Active Examinations</h2>
+    
+  <div class="view view-exams view-id-exams view-display-id-block_1 view-dom-id-023651165f4dc230cec792e91b21e63f">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-exam-name">        <div class="field-content"><a href="https://www.upsc.gov.in/examinations/Central%20Armed%20Police%20Forces%20%28ACs%29%20Examination%2C%202019"><ul class="exam"><li>Central Armed Police Forces (ACs) Examination, 2019</li></ul></a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section> <!-- /.block -->
+<section id="block-block-8" class="block block-block clearfix">
+
+      
+  <p><a href="https://upsconline.nic.in/upsc/OTRP/index.php" target="_blank">One Time Registration (OTR) for Examinations of UPSC</a></p>
+
+</section> <!-- /.block -->
+<section id="block-views-exams-block-2" class="block block-views clearfix">
+
+        <h2 class="block-title">Forthcoming Examinations</h2>
+    
+  <div class="view view-exams view-id-exams view-display-id-block_2 view-dom-id-c9ef412f723f7f6bb1a3f4611239ee73">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-exam-name">        <div class="field-content"><a href="https://www.upsc.gov.in/examinations/CBI%20%28DSP%29%20LDCE%2C%202023"><ul class="exam"><li>CBI (DSP) LDCE, 2023</li></ul></a></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-exam-name">        <div class="field-content"><a href="https://www.upsc.gov.in/examinations/CISF%20AC%28EXE%29%20LDCE-2023"><ul class="exam"><li>CISF AC(EXE) LDCE-2023</li></ul></a></div>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="https://www.upsc.gov.in/examinations/forthcoming-exams">
+    View all &gt;&gt;  </a>
+</div>
+  
+  
+  
+</div>
+</section> <!-- /.block -->
+  </div>
+ </div>
+               <div class="col-xs-12 col-sm-3 col-md-3 upsc-third">   <div class="region region-upsc-third">
+    <section id="block-menu-block-6" class="block block-menu-block clearfix">
+
+        <h2 class="block-title">Recruitment</h2>
+    
+  <div class="menu-block-wrapper menu-block-6 menu-name-main-menu parent-mlid-617 menu-level-1">
+  <ul class="menu nav"><li class="first leaf menu-mlid-1368"><a href="https://www.upsc.gov.in/recruitment/recruitment-advertisement" title="">Advertisements</a></li>
+<li class="expanded menu-mlid-3224"><a href="https://www.upsc.gov.in/recruitment/lateral-recruitments" title="">Status of Lateral Recruitment Cases (Advertisement-wise)</a></li>
+<li class="leaf menu-mlid-1369"><a href="http://upsconline.nic.in/ora/VacancyNoticePub.php" target="_BLANK" title="External site that opens in a new window ">Online Recruitment Application (ORA)</a></li>
+<li class="expanded menu-mlid-1371"><a href="https://www.upsc.gov.in/recruitment/status-recruitment-cases-advertisementwise">Status of Recruitment Cases (Advertisement-wise)</a></li>
+<li class="leaf menu-mlid-1385"><a href="https://www.upsc.gov.in/recruitment/recruitment-performas" title="">Forms for Certificates</a></li>
+<li class="leaf menu-mlid-1370"><a href="https://www.upsc.gov.in/recruitment/recruitment-test">Recruitment Tests</a></li>
+<li class="leaf menu-mlid-1384"><a href="https://www.upsc.gov.in/recruitment/recruitment-requisition" title="">Recruitment Requisition</a></li>
+<li class="leaf menu-mlid-2777"><a href="https://www.upsc.gov.in/content/recruitment-cases-kept-hold-account-pending-litigations">Recruitment cases kept on hold on account of Pending Litigations</a></li>
+<li class="last leaf menu-mlid-2755"><a href="https://www.upsc.gov.in/recruitment/time-frame-representation">Representation on Question Papers</a></li>
+</ul></div>
+
+</section> <!-- /.block -->
+  </div>
+</div>
+                <div class="col-xs-12 col-sm-3 col-md-3 upsc-last">  <div class="region region-upsc-last">
+    <section id="block-menu-menu-fourth-sidebar-menu" class="block block-menu clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf"><a href="https://www.upsc.gov.in/exams-related-info/exam-notification" title=""><img class="icon notifications" aria-hidden="true" typeof="foaf:Image" src="./img48_files/notifications.png" width="35" height="35" alt=""><span class="exam-notifications">Examination Notifications</span></a></li>
+<li class="leaf"><a href="https://www.upsc.gov.in/recruitment/recruitment-advertisement" title=""><img class="icon recruitment-add" aria-hidden="true" typeof="foaf:Image" src="./img48_files/recruitment-add.png" width="35" height="35" alt=""><span class="recruitment">Recruitment Advertisements</span></a></li>
+<li class="leaf"><a href="https://www.upsc.gov.in/apply-online" title=""><img class="icon apply-icon" aria-hidden="true" typeof="foaf:Image" src="./img48_files/apply-icon.png" width="35" height="35" alt=""><span class="apply-online">Apply Online</span></a></li>
+<li class="leaf"><a href="https://www.upsc.gov.in/e-admit-cards" title=""><img class="icon admit-icon" aria-hidden="true" typeof="foaf:Image" src="./img48_files/admit-icon.png" width="35" height="35" alt=""><span class="admit-card">Admit Cards</span></a></li>
+<li class="leaf"><a href="https://www.upsc.gov.in/written-results-" title=""><img class="icon result-icon" aria-hidden="true" typeof="foaf:Image" src="./img48_files/result-icon.png" width="35" height="35" alt=""><span class="results">Written Results</span></a></li>
+<li class="leaf"><a href="https://www.upsc.gov.in/interview-schedule-and-esummon-letters" title=""><img class="icon interview-icon" aria-hidden="true" typeof="foaf:Image" src="./img48_files/interview_icon.png" width="35" height="35" alt=""><span class="interviews">Interviews</span></a></li>
+<li class="last leaf"><a href="https://www.upsc.gov.in/final-results" title=""><img class="icon final-icon" aria-hidden="true" typeof="foaf:Image" src="./img48_files/final-icon.png" width="35" height="35" alt=""><span class="final-results">Final Results</span></a></li>
+</ul>
+</section> <!-- /.block -->
+  </div>
+</div>
+               </div>
+              
+                  
+
+      </div></section>
+
+	  <section id="section-2" class="fontSize" style="font-size: 100%;">
+	  <div class="container texture">
+	  
+                     
+              <div class="row">
+                <div class="col-md-12 col-sm-12">  <div class="region region-highlighted">
+    <section id="block-menu-menu-featured-menu" class="block block-menu clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf"><a href="https://www.upsc.gov.in/tenders" title=""><img class="icon faq" aria-hidden="true" typeof="foaf:Image" src="./img48_files/faq.png" width="35" height="35" alt=""><span class="featured-title">Tenders</span></a></li>
+<li class="leaf"><a href="https://www.upsc.gov.in/annual-reports" title=""><img class="icon annual" aria-hidden="true" typeof="foaf:Image" src="./img48_files/annual.png" width="35" height="35" alt=""><span class="featured-title">Annual Reports</span></a></li>
+<li class="leaf"><a href="https://www.upsc.gov.in/single-window-system" title=""><img class="icon single-window" aria-hidden="true" typeof="foaf:Image" src="./img48_files/single-window.png" width="35" height="35" alt=""><span class="featured-title">Single Window System / e-Appointment</span></a></li>
+<li class="leaf"><a href="https://upsconline.nic.in/miscellaneous/courtjudgements/" title=""><img class="icon court-judgements" aria-hidden="true" typeof="foaf:Image" src="./img48_files/court-judgements.png" width="35" height="35" alt=""><span class="featured-title">Court Judgments</span></a></li>
+<li class="leaf"><a href="https://www.upsc.gov.in/green-initiatives" title=""><img class="icon init" aria-hidden="true" typeof="foaf:Image" src="./img48_files/init.png" width="35" height="35" alt=""><span class="featured-title">Green Initiatives</span></a></li>
+<li class="leaf"><a href="https://www.upsc.gov.in/swachh-bharat-abhiyan" title=""><img class="icon swach-bharat" aria-hidden="true" typeof="foaf:Image" src="./img48_files/swach-bharat.png" width="187" height="95" alt=""><span class="swach">swach bharat</span></a></li>
+<li class="last leaf"><a href="https://www.upsc.gov.in/archives" title=""><img class="icon archives" aria-hidden="true" typeof="foaf:Image" src="./img48_files/archives.png" width="35" height="35" alt=""><span class="featured-title">Archives</span></a></li>
+</ul>
+</section> <!-- /.block -->
+  </div>
+</div>
+                
+               </div>
+              
+                  
+
+      </div></section>
+	  
+	  
+	  
+	  
+
+<section class="related-link-region container fontSize" style="font-size: 100%;">
+                 
+                      
+              <div class="row">
+                <div class="col-xs-12 col-sm-9 col-md-9 primary">  <div class="region region-sidebar-first well">
+    <section id="block-quicktabs-related-links" class="block block-quicktabs clearfix">
+
+      
+  <div id="quicktabs-related_links" class="quicktabs-wrapper quicktabs-style-nostyle jquery-once-1-processed"><ul class="quicktabs-tabs quicktabs-style-nostyle"><li class="active first last"><a href="https://www.upsc.gov.in/node?qt-related_links=0#qt-related_links" id="quicktabs-tab-related_links-0" class="active ajax-processed quicktabs-loaded jquery-once-2-processed">External Links</a></li>
+</ul><div id="quicktabs-container-related_links" class="quicktabs_main quicktabs-style-nostyle"><div id="quicktabs-tabpage-related_links-0" class="quicktabs-tabpage "><div class="view view-related-links view-id-related_links view-display-id-block view-dom-id-718932c68c4b61e7f226be2f3a89eea4">
+            <div class="view-header">
+      <!--div class="views-field views-field-field-link"><div class="field-content">
+<!--a id='she' href="http://www.shebox.nic.in" target="_BLANK" title="External site that opens in a new window "><p>She-Box</a></p>
+<script>
+//let url = new URL('http://www.shebox.nic.in/');
+//url.protocol = 'http:';
+//url.port = '80';
+//document.getElementById('she').href = url.toString();
+//document.getElementById('she').innerHTML = 'test';
+</script></div>
+</div-->
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-field-link">        <div class="field-content"><a href="https://india.gov.in/" target="_BLANK" title="External site that opens in a new window ">National Portal of India </a></div>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-field-link">        <div class="field-content"><a href="http://persmin.gov.in/dopt.asp" target="_BLANK" title="External site that opens in a new window ">Department of Personnel &amp; Training</a></div>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-field-link">        <div class="field-content"><a href="https://www.upsc.gov.in/external-links/state-public-service-commissions" target="_BLANK" title="External site that opens in a new window ">State Public Service Commissions</a></div>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-field-link">        <div class="field-content"><a href="http://www.csttpublication.mhrd.gov.in/english/index.php" target="_BLANK" title="External site that opens in a new window ">Commission of Scientific &amp; Technical Terminology</a></div>  </div></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <div class="views-field views-field-field-link">        <div class="field-content"><a href="http://www.shebox.nic.in/" target="_BLANK" title="External site that opens in a new window ">SHe-Box</a></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="https://www.upsc.gov.in/external-links">
+    View All &gt;&gt;  </a>
+</div>
+  
+  
+  
+</div></div></div></div>
+</section> <!-- /.block -->
+  </div>
+</div>
+                <div class="col-xs-12 col-sm-3 col-md-3 secondry">   <div class="region region-sidebar-second">
+    <section id="block-menu-menu-second-sidebar-menu" class="block block-menu clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf"><a href="https://www.upsc.gov.in/honble-chairmans-speech" title="">Hon'ble Chairman's Speech</a></li>
+<li class="leaf"><a href="https://www.upsc.gov.in/content/updation-adviser-details" title="">Advisers Corner</a></li>
+<li class="leaf"><a href="https://www.upsc.gov.in/employees-corner" title="">Employees Corner</a></li>
+<li class="leaf"><a href="https://www.upsc.gov.in/vacancy-circulars" title="">Work With Us</a></li>
+<li class="last leaf"><a href="https://www.upsc.gov.in/news-letters" title="">News Letters</a></li>
+</ul>
+</section> <!-- /.block -->
+  </div>
+				</div>
+                </div>
+                                   
+            
+                  
+ 
+     
+</section>
+
+
+
+
+<footer class="footer fontSize" style="font-size: 100%;">
+<div class="container">
+
+    <div class="region region-footer">
+    <section id="block-cmf-content-footer-region-block" class="block block-cmf-content clearfix">
+
+      
+  <footer class="wrapper footer-wrapper">
+	<div class="footer-top-wrapper">
+    	<div class="container footer-top-container"><ul class="menu nav"><li class="first leaf"><a href="https://www.upsc.gov.in/website-policy" title="">Website Policies</a></li>
+<li class="leaf"><a href="https://www.upsc.gov.in/help">Help</a></li>
+<li class="leaf"><a href="https://www.upsc.gov.in/contact-us">Contact us</a></li>
+<li class="leaf"><a href="https://www.upsc.gov.in/web-information-manager" title="">Web Information Manager</a></li>
+<li class="leaf"><a href="https://www.upsc.gov.in/feedback" title="">Feedback</a></li>
+<li class="leaf"><a href="https://www.upsc.gov.in/privacy-policy" title="">Privacy Policy</a></li>
+<li class="last leaf"><a href="https://www.upsc.gov.in/disclaimer-">Disclaimer</a></li>
+</ul></div>
+    </div>
+    <div class="footer-bottom-wrapper">
+    	<div class="container footer-bottom-container">
+        	<div class="footer-content clearfix "><div class="copyright-content">
+            	Website Content Managed by © Content Owned by Union Public Service Commission, New Delhi, India.
+            <span>Designed, Developed  by  <a href="http://www.akikosherman.com/" title="Akiko Sherman Infotech, External Link that opens in a new window" target="_blank">Akiko Sherman Infotech</a> </span> <span class="lastupdated">Last Updated: 23 Nov 2022</span>
+            </div>
+            
+             <!--div class="logo-cmf">
+            	<a href="#" target="_blank"><img src="https://www.upsc.gov.in/sites/all/modules/cmf/cmf_content/assets/images/cmf-logo.png" alt="Content Management Framework"></a>
+            </div-->
+                </div>
+        </div>
+    </div>
+</footer>
+</section> <!-- /.block -->
+  </div>
+ 
+<div class="visitor-counter">
+   <ul class="visitor-ul"><li>     
+	   Visitor No:395898402</li>
+   
+   </ul>
+   
+   <p><small>     
+	   (Since: 15  Sep 2016)</small></p><div style="color:#888888; font-size:70%; margin-top:-5px;"><small>(133)   (23-Nov-2022 06:49 )</small></div><p></p>
+
+  </div>
+  </div>
+</footer>
+
+
+  <script src="./img48_files/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js.download"></script>
+
+
+</body></html>
